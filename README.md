@@ -9,12 +9,12 @@ The dataset contains information related to traffic stops, driver demographics, 
 The main objective of this project is to analyze real-world police data, uncover useful insights, and practice data analysis techniques using Pandas.
 
 🛠️ 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀 𝗨𝘀𝗲𝗱
-  • Python
-  • Pandas
-  • NumPy
-  • Jupyter Notebook
-  • Matplotlib
-  • Seaborn
+  - Python
+  - Pandas
+  - NumPy
+  - Jupyter Notebook
+  - Matplotlib
+  - Seaborn
 
 📂 𝗗𝗮𝘁𝗮𝘀𝗲𝘁 𝗜𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻:
 
